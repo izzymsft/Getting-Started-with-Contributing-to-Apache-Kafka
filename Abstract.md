@@ -1,6 +1,6 @@
-# Getting Started with Apache Kafka: a Contributor's Journey
+## Getting Started with Apache Kafka: a Contributor's Journey
 
-## Abstract
+### Abstract
 
 Contributing to an open source project can be a very rewarding experience especially when you realize how your contributions are transforming the project and impacting others in a positive way. However, as a newcomer to an open source project with several moving parts and a very rich ecosystem, getting started and getting involved as a contributor can be overwhelming, confusing, daunting and prove to be challenging especially when you are not familiar with the process and don't know how and where to start.
 
