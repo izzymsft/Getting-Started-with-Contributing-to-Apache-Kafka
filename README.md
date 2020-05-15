@@ -14,7 +14,7 @@ When to get involved.
 
 Even if you are not able to participate as a presenter, you can still share my ideas/thoughts and get feedback.
 
-Please reach out if you are interested in partnering on this. We plan to submit the CFP on Friday (May 15). 
+Please reach out if you are interested in partnering on this. We plan to submit the CFP on Friday (May 15) around 9:00pm UTC. 
 
 Thanks.
 
