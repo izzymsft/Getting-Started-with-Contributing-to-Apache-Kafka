@@ -15,6 +15,53 @@
 - How to discuss the issues that you have encountered during development to more experienced contributors in the project?
 - How to actually write the code and get the patches into the repository?
 
+## Areas of Contribution
+ testing release candidates, submitting patches, adding/changing core and ecosystem components etc
+
+### Responding to Questions on Forums
+- Kafka Dev Mailing List
+- Kafka Dev Mailing List
+- Stackoverflow
+- LinkedIn
+- Quora
+- Reddit
+
+### Creating Tutorials and Educational Materials
+- Free Tutorials on YouTube
+- Speaking at Technology Conferences, Podcasts
+- Blogs
+- Books
+- Use Cases and Case Study Publications
+
+### Kafka Documentation
+- Creating and/or Modifying Existing Kafka Documentation
+- Proposing Changes to the Documentation
+- Asking Questions about Content on the Documentation
+
+### Kafka Improvement Proposals (KIPs)
+- Proposing Changes to Kafka Components
+- Participating in the Discussions
+- Voting on KIPs
+- Implementing KIPs
+
+### Code Contributors
+- Creating or Modifying existing core or ecosystem components
+- Submitting Bugs in the Code
+- Submitting Patches for Bugs in the Code
+- Submitting Patches for Improvements in the Code
+- Submitting Patches for Tests against CORE and Ecosystem Components
+
+### Release Candidate Management
+- Running the process for releasing a new version candidate (RC)
+- Testing Release Candidates
+- Reporting Issues with Release Candidates
+- Voting on Release Candidates after Functional Tests and Reviews
+
+## Financial Support to the Project
+- Donating to the Apache Software Foundation
+- Volunteering Time and Resources on the Project
+
+
 ## Categories of Contributors
 - Users (questions, bug reports etc)
 - Donors to the project and foundation
