@@ -2,13 +2,14 @@
 
 For the [Kafka Summit Austin 2020](https://events.kafka-summit.org/kafka-summit-austin-2020), we are the currently in the process of submitting a 40-minute talk on how to get involved with the Apache Kafka project.
 
-Personally, as a beginning contributor to the project, it was a bit overwhelming earlier on in the process knowing where to start, what to do and how to get involved. The community and the project as a whole can really benefit from this type of content.
+Personally, as a beginning contributor to the project, it was a bit overwhelming earlier on in the process knowing where to start, what to do and how to get involved. The community and the project as a whole can really benefit from this type of content. The goal of this talk is to get more organizations and individuals involved in various ways on the Apache Kafka project. In my assessment and interaction with the community of users, a lot of users are really interested in helping but really have no idea how to get started.
 
 At a high level, we plan to cover the following:
 - How to get started
 - Who can contribute?
 - Why we should get involved ...
-- What and how we can contribute (tutorials, stack overflow, support email distribution lists, architecture discussions, docs, testing release candidates, submitting patches, adding/changing core and ecosystem components etc). Project rules and guidelines for contributing.
+- What and how we can contribute (tutorials, stack overflow, support email distribution lists, architecture discussions, docs, testing release candidates, submitting patches, adding/changing core and ecosystem components etc)
+- Project rules and guidelines for contributing.
 When to get involved.
 
 Even if you are not able to participate as a presenter, you can still share my ideas/thoughts and get feedback.
