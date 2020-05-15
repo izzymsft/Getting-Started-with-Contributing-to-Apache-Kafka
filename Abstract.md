@@ -2,7 +2,7 @@
 
 ### Abstract
 
-Contributing to an open source project can be a very rewarding experience especially when you realize how your contributions are transforming the project and impacting others in a positive way. However, as a newcomer to an open source project with several moving parts and a very rich ecosystem, getting started and getting involved as a contributor can be overwhelming, confusing, daunting and prove to be challenging especially when you are not familiar with the process and don't know how and where to start.
+Contributing to an open source project can be a very rewarding experience especially when you realize how your contributions are transforming the project and impacting others in a positive way. However, as a newcomer to an open source project with several moving parts and a very rich ecosystem, getting started and getting involved as a contributor can be overwhelming, confusing, daunting and prove to be challenging especially when you are not familiar with the process and don't know how and where to start. You start to wonder, how does the project operate? What and how can I contribute? Where do I get even started?
 
 In this session, we will cover how to go from zero to contributing in a very short time. We will also discuss the benefits of contributing to an open source project such as Apache Kafka, why you should get involved, how you can contribute and the various areas you can contribute to the project such as organizing meetups, developing tutorials, answering questions on stack overflow/mailing lists, proposing improvements to the project, participating in architecture discussions, updating the project docs, validating new release candidates, reporting bugs, submitting patches to name just a few.
 
