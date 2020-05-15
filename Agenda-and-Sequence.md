@@ -19,7 +19,7 @@
  These are some of the areas of contributing to the project.
 
 ### Responding to Questions on Forums
-- Kafka Dev Mailing List
+- Kafka User Mailing List
 - Kafka Dev Mailing List
 - Stackoverflow
 - LinkedIn
@@ -89,13 +89,22 @@ https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
 https://kafka.apache.org/contributing
 
 #### Rules and ByLaws Governing the Project 
-https://cwiki.apache.org/confluence/display/KAFKA/Bylaws#Bylaws-RolesandResponsibilities
+https://cwiki.apache.org/confluence/display/KAFKA/Bylaws
 
 ## Benefits on Contribution
+- Satistfacting of Helping Others
+- Learning more about Kafka and Distributed Systems
+- The joy of seeing the project improve/make progress
+- Fun
+- Meeting new people
 
 ## How to Find Time to Contribute 
+- Passion/Dedication
+- Priorities
 
 ## Call to Action
+- Find one of the areas to contribute
+- Make the time to make it happen
 
 ## Q/A
 Here I think it would be a good idea if we could get video questions, tweets or emails ahead of the talk so that we could address it in our presentation. Also, if it is going to be live and not pre-recorded then we can take live questions as well.
