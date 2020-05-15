@@ -1,4 +1,4 @@
-#Session Abstract
+## Session Abstract
 
 Contributing to an open source project can be a very rewarding experience especially when you realize how your contributions are transforming the project and impacting others in a positive way. However, as a newcomer sometimes getting started and getting involved in the project can be overwhelming. daunting and prove to be challenging when you are not familiar with the process, are confused about what to contribute and don't know how, when and where to start.
 
