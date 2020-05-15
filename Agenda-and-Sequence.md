@@ -16,7 +16,7 @@
 - How to actually write the code and get the patches into the repository?
 
 ## Areas of Contribution
- testing release candidates, submitting patches, adding/changing core and ecosystem components etc
+ These are some of the areas of contributing to the project.
 
 ### Responding to Questions on Forums
 - Kafka Dev Mailing List
@@ -70,6 +70,26 @@
 - PMC Members
 
 ## Project Rules, Processes and Logistics for Contributing
+
+These are some information regarding rules and guidelines within the project.
+
+#### Project Information
+https://kafka.apache.org/project
+
+#### Contribution Guidelines
+https://kafka.apache.org/contributing
+
+#### Coding Guidelines
+https://kafka.apache.org/coding-guide
+
+#### Kafka Improvement Proposals
+https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
+
+#### Becomming a Committer
+https://kafka.apache.org/contributing
+
+#### Rules and ByLaws Governing the Project 
+https://cwiki.apache.org/confluence/display/KAFKA/Bylaws#Bylaws-RolesandResponsibilities
 
 ## Benefits on Contribution
 
